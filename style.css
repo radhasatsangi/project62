@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: lavender;
+}
+mycarousel{
+    background-color: cyan;
+}
+#mycarousel img{
+    height: 350px;
+    margin-top: 30px;
+    
+    
+}
+.carousel-inner p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: blue;
+    font-size: 20px;
+    
+}
+img{
+    height: 350px;
+    width: 350px;
+}
+.links{
+    color: aliceblue;
+    
+}
+.links:hover{
+    color: hotpink;
+}
